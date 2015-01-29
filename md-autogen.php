@@ -17,7 +17,7 @@ foreach ($data as $category => $values)
 	$md .= "[$category]($href)\n";
 }
 
-$md .= "To edit this file, you have to edit the `software.json`. If you commit, this file gets automatically generated. You need PHP (:/).\n";
+$md .= "To edit this file, you have to edit the `software.json`. You need PHP (:/). If you're done, do a `php md-autogen.php` to generate this file. Then commit.\n";
 $md .= "Now let's come top the good stuff.\n";
 
 // actual content
