@@ -11,7 +11,6 @@ To edit this file, you have to edit the `software.json`. You need PHP (:/). If y
 
 autogenPath="${GIT_DIR}/../md-autogen.php"
 php $autogenPath
-
 ```
 Now let's come top the good stuff.
 
