@@ -20,7 +20,7 @@ foreach ($data as $category => $values)
 
 $md .= "To edit this file, you have to edit the `software.json`. You need PHP (:/). If you're done, do a `php md-autogen.php` to generate this file. Then commit. You might also put this in your pre-commit:\n";
 $md .= "```bash\n";
-$md .= file_get_contents($preCommitFile) . "\n";
+$md .= file_get_contents($preCommitFile);
 $md .= "```\n";
 $md .= "Now let's come top the good stuff.\n";
 

@@ -6,11 +6,13 @@
 [Reverse Engineering](#reverse-engineering)
 [Linux](#linux)
 To edit this file, you have to edit the `software.json`. You need PHP (:/). If you're done, do a `php md-autogen.php` to generate this file. Then commit. You might also put this in your pre-commit:
+```bash
 #!/bin/bash
 
 autogenPath="${GIT_DIR}/../md-autogen.php"
 php $autogenPath
 
+```
 Now let's come top the good stuff.
 
 ### Common Stuff
@@ -68,3 +70,4 @@ Now let's come top the good stuff.
 - fortune
 - [fish](http://fishshell.com/files/2.1.0/linux/index.html#dl-debian7)
 - [Numix-GTK3-Theme](https://satya164.deviantart.com/art/Numix-GTK3-theme-360223962)
+- Texmaker
