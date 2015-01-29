@@ -3,6 +3,7 @@
 
 $file = "software.json";
 $destFile = "README.md";
+$preCommitFile = "pre-commit.sh";
 
 $data = json_decode(file_get_contents($file));
 
@@ -17,7 +18,8 @@ foreach ($data as $category => $values)
 	$md .= "[$category]($href)\n";
 }
 
-$md .= "To edit this file, you have to edit the `software.json`. You need PHP (:/). If you're done, do a `php md-autogen.php` to generate this file. Then commit.\n";
+$md .= "To edit this file, you have to edit the `software.json`. You need PHP (:/). If you're done, do a `php md-autogen.php` to generate this file. Then commit. You might also put this in your pre-commit:\n";
+$md .= file_get_contents($preCommitFile) . "\n";
 $md .= "Now let's come top the good stuff.\n";
 
 // actual content

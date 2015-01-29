@@ -5,7 +5,7 @@
 [Specialized](#specialized)
 [Reverse Engineering](#reverse-engineering)
 [Linux](#linux)
-To edit this file, you have to edit the `software.json`. If you commit, this file gets automatically generated. You need PHP (:/).
+To edit this file, you have to edit the `software.json`. You need PHP (:/). If you're done, do a `php md-autogen.php` to generate this file. Then commit.
 Now let's come top the good stuff.
 
 ### Common Stuff
