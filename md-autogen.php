@@ -15,7 +15,7 @@ $md .= "## Contents\n";
 foreach ($data as $category => $values)
 {
 	$href = '#' . str_replace(' ', '-', strtolower($category));
-	$md .= "[$category]($href)\n";
+	$md .= "- [$category]($href)\n";
 }
 
 $md .= "To edit this file, you have to edit the `software.json`. You need PHP (:/). If you're done, do a `php md-autogen.php` to generate this file. Then commit. You might also put this in your pre-commit:\n";

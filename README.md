@@ -1,10 +1,10 @@
 # List of Software
 ## Contents
-[Common Stuff](#common-stuff)
-[Development](#development)
-[Specialized](#specialized)
-[Reverse Engineering](#reverse-engineering)
-[Linux](#linux)
+- [Common Stuff](#common-stuff)
+- [Development](#development)
+- [Specialized](#specialized)
+- [Reverse Engineering](#reverse-engineering)
+- [Linux](#linux)
 To edit this file, you have to edit the `software.json`. You need PHP (:/). If you're done, do a `php md-autogen.php` to generate this file. Then commit. You might also put this in your pre-commit:
 ```bash
 #!/bin/bash
