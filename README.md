@@ -6,7 +6,8 @@
 - [Reverse Engineering](#reverse-engineering)
 - [Linux](#linux)
 
-To edit this file, you have to edit the `software.json`. You need PHP (:/). If you're done, do a `php md-autogen.php` to generate this file. Then commit. You might also put this in your pre-commit:
+To edit this file, you have to edit the `software.json`. You need PHP (:/). If you're done, do a `php autogen.php` to generate this file. Then commit.
+You might also put this in your pre-commit:
 ```bash
 #!/bin/bash
 
@@ -49,9 +50,7 @@ Now let's come top the good stuff.
 - [Syncthing/pulse](https://github.com/syncthing/syncthing/releases/latest)
 - [JDownloader 2](http://jdownloader.org/download/offline)
 - [Deluge](http://dev.deluge-torrent.org/wiki/Download)
-- [XNView](http://www.xnview.com/de/xnconvert/#downloads)
 - [KeePass 2](http://keepass.info/download.html)
-- [Foobar](http://www.foobar2000.org/download)
 
 ### Reverse Engineering
 - [Cheat Engine](http://www.cheatengine.org)
@@ -60,7 +59,6 @@ Now let's come top the good stuff.
 - [JustDecompile](http://www.telerik.com/download/justdecompile)
 - [Winject](https://i.holz.nu/dceda.zip)
 - IDA
-- [Process Hacker](http://processhacker.sourceforge.net)
 - [Wireshark](https://www.wireshark.org/download.html)
 
 ### Linux
