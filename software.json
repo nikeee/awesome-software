@@ -33,9 +33,7 @@
     "Syncthing\/pulse":"https:\/\/github.com\/syncthing\/syncthing\/releases\/latest",
     "JDownloader 2":"http:\/\/jdownloader.org\/download\/offline",
     "Deluge":"http:\/\/dev.deluge-torrent.org\/wiki\/Download",
-    "XNView":"http:\/\/www.xnview.com\/de\/xnconvert\/#downloads",
-    "KeePass 2":"http:\/\/keepass.info\/download.html",
-    "Foobar":"http:\/\/www.foobar2000.org\/download"
+    "KeePass 2":"http:\/\/keepass.info\/download.html"
   },
   "Reverse Engineering":{
     "Cheat Engine":"http:\/\/www.cheatengine.org",
@@ -44,7 +42,6 @@
     "JustDecompile":"http:\/\/www.telerik.com\/download\/justdecompile",
     "Winject":"https:\/\/i.holz.nu\/dceda.zip",
     "IDA":null,
-    "Process Hacker":"http:\/\/processhacker.sourceforge.net",
     "Wireshark":"https:\/\/www.wireshark.org\/download.html"
   },
   "Linux":{
