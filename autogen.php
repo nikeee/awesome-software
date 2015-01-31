@@ -34,7 +34,7 @@ foreach ($data as $category => $values)
 }
 
 $rawText = [
-	"To edit this file, you have to edit the `software.json`. You need PHP (:/). If you're done, do a `php md-autogen.php` to generate this file. Then commit.\n"
+	"To edit this file, you have to edit the `software.json`. You need PHP (:/). If you're done, do a `php autogen.php` to generate this file. Then commit.\n"
 ];
 
 $html .= "<div><p>";
