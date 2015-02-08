@@ -1,4 +1,4 @@
 #!/bin/bash
 
-autogenPath="${GIT_DIR}/../md-autogen.php"
+autogenPath="${GIT_DIR}/../autogen.php"
 php $autogenPath
