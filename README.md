@@ -69,3 +69,4 @@ Now let's come top the good stuff.
 - [fish](http://fishshell.com/files/2.1.0/linux/index.html#dl-debian7)
 - [Numix-GTK3-Theme](https://satya164.deviantart.com/art/Numix-GTK3-theme-360223962)
 - Texmaker
+- tree
