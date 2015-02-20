@@ -33,7 +33,8 @@
     "Syncthing\/pulse":"https:\/\/github.com\/syncthing\/syncthing\/releases\/latest",
     "JDownloader 2":"http:\/\/jdownloader.org\/download\/offline",
     "Deluge":"http:\/\/dev.deluge-torrent.org\/wiki\/Download",
-    "KeePass 2":"http:\/\/keepass.info\/download.html"
+    "KeePass 2":"http:\/\/keepass.info\/download.html",
+    "f.lux":"http:\/\/justgetflux.com"
   },
   "Reverse Engineering":{
     "Cheat Engine":"http:\/\/www.cheatengine.org",
