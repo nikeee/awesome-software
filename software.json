@@ -55,6 +55,7 @@
     "Texmaker": null,
     "tree": null,
     "fail2ban": null,
+    "cowsay": null,
     "thefuck": "https:\/\/github.com\/nvbn\/thefuck"
   }
 }
