@@ -47,6 +47,7 @@
   },
   "Linux":{
     "sudo":null,
+    "htop": null,
     "unp":null,
     "gufw":null,
     "fortune":null,
