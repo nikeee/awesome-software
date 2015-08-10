@@ -11,7 +11,7 @@ You might also put this in your pre-commit:
 ```bash
 #!/bin/bash
 
-autogenPath="${GIT_DIR}/../md-autogen.php"
+autogenPath="${GIT_DIR}/../autogen.php"
 php $autogenPath
 ```
 Now let's come top the good stuff.
@@ -39,7 +39,7 @@ Now let's come top the good stuff.
 - [msysgit](https://msysgit.github.io)
 - [hub](https://github.com/github/hub/releases/latest)
 - [nodejs](https://nodejs.org)
-- [nodejs Tools for VS](https://nodejstools.codeplex.com)
+- [nodejs Tools for VS](https://nodejstools.codeplex.com/releases)
 - [TypeScript (<code>sudo npm i -g typescript</code>)](http://www.typescriptlang.org/#Download)
 - [SourceTree](http://sourcetreeapp.com)
 - [tsd (<code>sudo npm i -g tsd</code>)](http://definitelytyped.org/tsd/)
@@ -51,6 +51,7 @@ Now let's come top the good stuff.
 - [JDownloader 2](http://jdownloader.org/download/offline)
 - [Deluge](http://dev.deluge-torrent.org/wiki/Download)
 - [KeePass 2](http://keepass.info/download.html)
+- [f.lux](http://justgetflux.com)
 
 ### Reverse Engineering
 - [Cheat Engine](http://www.cheatengine.org)
@@ -63,10 +64,16 @@ Now let's come top the good stuff.
 
 ### Linux
 - sudo
+- htop
 - unp
 - gufw
 - fortune
 - [fish](http://fishshell.com/files/2.1.0/linux/index.html#dl-debian7)
 - [Numix-GTK3-Theme](https://satya164.deviantart.com/art/Numix-GTK3-theme-360223962)
+- Numix Holo
 - Texmaker
 - tree
+- fail2ban
+- cowsay
+- [thefuck](https://github.com/nvbn/thefuck)
+- [hub](https://github.com/github/hub/issues/718#issuecomment-100411835)
