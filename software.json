@@ -58,6 +58,7 @@
     "tree": null,
     "fail2ban": null,
     "cowsay": null,
-    "thefuck": "https:\/\/github.com\/nvbn\/thefuck"
+    "thefuck": "https:\/\/github.com\/nvbn\/thefuck",
+    "hub": "https://github.com/github/hub/issues/718#issuecomment-100411835"
   }
 }
