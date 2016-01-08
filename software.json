@@ -59,6 +59,7 @@
     "fail2ban": null,
     "cowsay": null,
     "thefuck": "https:\/\/github.com\/nvbn\/thefuck",
-    "hub": "https:\/\/github.com\/github\/hub\/issues\/718#issuecomment-100411835"
+    "hub": "https:\/\/github.com\/github\/hub\/issues\/718#issuecomment-100411835",
+    "srm": "http:\/\/www.cyberciti.biz\/tips\/linux-how-to-delete-file-securely.html"
   }
 }
