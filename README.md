@@ -35,6 +35,7 @@ Now let's come top the good stuff.
 ### Development
 - [Sublime Text 3](https://www.sublimetext.com/3)
 - [Visual Studio](https://www.visualstudio.com/downloads/download-visual-studio-vs)
+- Visual Studio Code
 - [ReSharper](https://www.jetbrains.com/resharper/download/)
 - [msysgit](https://msysgit.github.io)
 - [hub](https://github.com/github/hub/releases/latest)
@@ -77,3 +78,5 @@ Now let's come top the good stuff.
 - cowsay
 - [thefuck](https://github.com/nvbn/thefuck)
 - [hub](https://github.com/github/hub/issues/718#issuecomment-100411835)
+- [srm](http://www.cyberciti.biz/tips/linux-how-to-delete-file-securely.html)
+- outguess
