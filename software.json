@@ -18,6 +18,7 @@
   "Development":{
     "Sublime Text 3":"https:\/\/www.sublimetext.com\/3",
     "Visual Studio":"https:\/\/www.visualstudio.com\/downloads\/download-visual-studio-vs",
+    "Visual Studio Code": null,
     "ReSharper":"https:\/\/www.jetbrains.com\/resharper\/download\/",
     "msysgit":"https:\/\/msysgit.github.io",
     "hub":"https:\/\/github.com\/github\/hub\/releases\/latest",
