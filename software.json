@@ -58,6 +58,7 @@
 		"httping": null,
 		"pigz": null,
 		"q": "https://github.com/harelba/q",
-		"hexyl": "https://github.com/sharkdp/hexyl"
+		"hexyl": "https://github.com/sharkdp/hexyl",
+		"fd": "https://github.com/sharkdp/fd"
 	}
 }
