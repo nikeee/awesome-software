@@ -66,6 +66,7 @@
     "httpie": null,
     "httping": null,
     "pigz": null,
-    "q", "https:\/\/github.com/harelba/q"
+    "q", "https:\/\/github.com/harelba/q",
+    "hexyl": "https:\/\/github.com/sharkdp/hexyl"
   }
 }
