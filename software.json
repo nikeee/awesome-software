@@ -1,46 +1,46 @@
 {
   "Common Stuff":{
-    "Firefox":"https:\/\/www.mozilla.org\/en-US\/firefox\/developer\/all\/",
-    "Pidgin":"https:\/\/pidgin.im",
-    "Thunderbird":"https:\/\/www.mozilla.org\/en-US\/thunderbird\/all.html",
-    "VLC":"https:\/\/www.videolan.org\/vlc\/#download",
-    "TeamSpeak 3":"http:\/\/www.teamspeak.com\/?page=downloads",
-    "FlashFXP":"https:\/\/www.flashfxp.com\/download",
-    "KiTTy":"http:\/\/www.9bis.net\/kitty\/?page=Download",
-    "Steam":"https:\/\/store.steampowered.com\/about\/",
-    "RealVNC Server\/Client":"https:\/\/www.realvnc.com\/download\/vnc",
-    "HolzShots":"http:\/\/deploy.holzshots.net\/HolzShots\/HolzShots.application",
-    "Sound Switcher":"https:\/\/i.holz.nu\/22da1.zip",
-    "7-Zip":"http:\/\/7-zip.org",
-    "Evince":"https:\/\/wiki.gnome.org\/Apps\/Evince\/Downloads",
-    "Chocolately":"https:\/\/chocolatey.org"
+    "Firefox":"https://www.mozilla.org/en-US/firefox/developer/all/",
+    "Pidgin":"https://pidgin.im",
+    "Thunderbird":"https://www.mozilla.org/en-US/thunderbird/all.html",
+    "VLC":"https://www.videolan.org/vlc/#download",
+    "TeamSpeak 3":"http://www.teamspeak.com/?page=downloads",
+    "FlashFXP":"https://www.flashfxp.com/download",
+    "KiTTy":"http://www.9bis.net/kitty/?page=Download",
+    "Steam":"https://store.steampowered.com/about/",
+    "RealVNC Server/Client":"https://www.realvnc.com/download/vnc",
+    "HolzShots":"http://deploy.holzshots.net/HolzShots/HolzShots.application",
+    "Sound Switcher":"https://i.holz.nu/22da1.zip",
+    "7-Zip":"http://7-zip.org",
+    "Evince":"https://wiki.gnome.org/Apps/Evince/Downloads",
+    "Chocolately":"https://chocolatey.org"
   },
   "Development":{
-    "Sublime Text 3":"https:\/\/www.sublimetext.com\/3",
-    "Visual Studio":"https:\/\/www.visualstudio.com\/downloads\/download-visual-studio-vs",
+    "Sublime Text 3":"https://www.sublimetext.com/3",
+    "Visual Studio":"https://www.visualstudio.com/downloads/download-visual-studio-vs",
     "Visual Studio Code": null,
-    "ReSharper":"https:\/\/www.jetbrains.com\/resharper\/download\/",
-    "nodejs":"https:\/\/nodejs.org",
-    "TypeScript (<code>npm i -g typescript<\/code>)":"http:\/\/www.typescriptlang.org\/#Download",
-    "npm-check-updates (<code>npm i -g npm-check-updates<\/code>)": "https://www.npmjs.com/package/npm-check-updates",
-    "ScriptCS":"https:\/\/github.com\/scriptcs\/scriptcs\/releases",
-    "VS Preview Downloads":"https:\/\/www.visualstudio.com\/en-us\/downloads\/prerelease-software-downloads-vs"
+    "ReSharper":"https://www.jetbrains.com/resharper/download/",
+    "nodejs":"https://nodejs.org",
+    "TypeScript (<code>npm i -g typescript</code>)":"http://www.typescriptlang.org/#Download",
+    "npm-check-updates (<code>npm i -g npm-check-updates</code>)": "https://www.npmjs.com/package/npm-check-updates",
+    "ScriptCS":"https://github.com/scriptcs/scriptcs/releases",
+    "VS Preview Downloads":"https://www.visualstudio.com/en-us/downloads/prerelease-software-downloads-vs"
   },
   "Specialized":{
-    "Syncthing\/pulse":"https:\/\/github.com\/syncthing\/syncthing\/releases\/latest",
-    "JDownloader 2":"http:\/\/jdownloader.org\/download\/offline",
-    "Deluge":"http:\/\/dev.deluge-torrent.org\/wiki\/Download",
-    "KeePass 2":"http:\/\/keepass.info\/download.html",
-    "f.lux":"http:\/\/justgetflux.com"
+    "Syncthing/pulse":"https://github.com/syncthing/syncthing/releases/latest",
+    "JDownloader 2":"http://jdownloader.org/download/offline",
+    "Deluge":"http://dev.deluge-torrent.org/wiki/Download",
+    "KeePass 2":"http://keepass.info/download.html",
+    "f.lux":"http://justgetflux.com"
   },
   "Reverse Engineering":{
-    "Cheat Engine":"http:\/\/www.cheatengine.org",
-    "ILSpy":"https:\/\/github.com\/icsharpcode\/ILSpy\/releases\/latest",
-    "dotPeek":"https:\/\/www.jetbrains.com\/decompiler\/download\/",
-    "JustDecompile":"http:\/\/www.telerik.com\/download\/justdecompile",
-    "Winject":"https:\/\/i.holz.nu\/dceda.zip",
+    "Cheat Engine":"http://www.cheatengine.org",
+    "ILSpy":"https://github.com/icsharpcode/ILSpy/releases/latest",
+    "dotPeek":"https://www.jetbrains.com/decompiler/download/",
+    "JustDecompile":"http://www.telerik.com/download/justdecompile",
+    "Winject":"https://i.holz.nu/dceda.zip",
     "IDA":null,
-    "Wireshark":"https:\/\/www.wireshark.org\/download.html"
+    "Wireshark":"https://www.wireshark.org/download.html"
   },
   "Linux":{
     "sudo":null,
@@ -52,12 +52,12 @@
     "tree": null,
     "fail2ban": null,
     "cowsay": null,
-    "srm": "http:\/\/www.cyberciti.biz\/tips\/linux-how-to-delete-file-securely.html",
+    "srm": "http://www.cyberciti.biz/tips/linux-how-to-delete-file-securely.html",
     "outguess": null,
     "httpie": null,
     "httping": null,
     "pigz": null,
-    "q", "https:\/\/github.com/harelba/q",
-    "hexyl": "https:\/\/github.com/sharkdp/hexyl"
+    "q": "https://github.com/harelba/q",
+    "hexyl": "https://github.com/sharkdp/hexyl"
   }
 }
