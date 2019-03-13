@@ -23,6 +23,7 @@
 		"nodejs": "https://nodejs.org",
 		"TypeScript (<code>npm i -g typescript</code>)": "http://www.typescriptlang.org/#Download",
 		"npm-check-updates (<code>npm i -g npm-check-updates</code>)": "https://www.npmjs.com/package/npm-check-updates",
+		"npm-merge-driver": "https://www.npmjs.com/package/npm-merge-driver",
 		"ScriptCS": "https://github.com/scriptcs/scriptcs/releases",
 		"VS Preview Downloads": "https://www.visualstudio.com/en-us/downloads/prerelease-software-downloads-vs"
 	},
